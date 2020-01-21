@@ -1,0 +1,7 @@
+"How much runsoff the roof"
+"Sequence"
+"Statement - How much water runsoff a root in a rain storm?"
+"Selection - Calculate the runoff from any given rainfall"
+"Repetition - Take the dimensions of the footprint of the root and convert them to inches"
+"Multiply the roof dimensions by the number of inches of rainfall"
+"Divide the result by 231 to get the number of gallons"

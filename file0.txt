@@ -1,0 +1,5 @@
+"Find the average score"
+"Prompt user operator ten exam scores"
+"Get average score"
+"Calculate average score = Sum of the scores divided by the number of scores"
+"Display average score"
